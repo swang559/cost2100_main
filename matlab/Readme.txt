@@ -1,3 +1,6 @@
+[![Open in MATLAB Online](https://mathworks.com)](https://mathworks.com)
+
+
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 The updated version 3.1 is implemented by Sara Gunnarsson and Jose 
 Flordelis, Lund University, Lund, Sweden. Massive MIMO scenario 
@@ -51,7 +54,7 @@ Previous version history:
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 If you use the COST 2100 channel model for publications, please refer to: 
 L. Liu, J. Poutanen, F. Quitin, K. Haneda, F. Tufvesson, P. De Doncker,
-P. Vainikainen and C. Oestges, ìThe COST 2100 MIMO channel model,î
+P. Vainikainen and C. Oestges, ‚ÄúThe COST 2100 MIMO channel model,‚Äù
 IEEE Wireless Commun., vol 19, issue 6, pp 92-99, Dec. 2012.
 
 Further details about the COST 2100 channel model can be found in:
@@ -136,11 +139,11 @@ create_IR_omni: users have to set up the frequency separation, delta_f
 Modifications are listed in the document changelog.
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-The code is developed under GPL. The COST2100 code was originally written by Lingfeng Liu, UniverstiÈ catholique de Louvain (UCL). 
+The code is developed under GPL. The COST2100 code was originally written by Lingfeng Liu, Universti√© catholique de Louvain (UCL). 
 
 Email: lingfeng.liu@uclouvain.be
 Tel: +32 (0) 10 47 81 05
-Address: B‚timent Maxwell, Place du Levent 3, 1348 Louvain-la-Neuve, Belgium
+Address: B√¢timent Maxwell, Place du Levent 3, 1348 Louvain-la-Neuve, Belgium
 
 1, Function list
 calc_dist
@@ -246,5 +249,5 @@ Also thanks for my wife Qin, always be patient during my coding time.
 7, Some further references
 
 [1] L.M. Correia, Mobile Broadband Multimedia Networks. Academic Press, 2006.
-[2] N. Czink and C. Oestges, ìThe COST 273 MIMO channel model: Three kinds of clusters,î IEEE 10th Int. Sym., ISSSTAí08, pp. 282ñ286, 2008.
+[2] N. Czink and C. Oestges, ‚ÄúThe COST 273 MIMO channel model: Three kinds of clusters,‚Äù IEEE 10th Int. Sym., ISSSTA‚Äô08, pp. 282‚Äì286, 2008.
 [3] L. Liu, N. Czink, and C. Oestges, Implementing the COST 273 MIMO channel model, NEWCOM 2009
